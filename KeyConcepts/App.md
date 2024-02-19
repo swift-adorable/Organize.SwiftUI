@@ -29,13 +29,13 @@ class AppDelegate: NSObject, UIApplicationDelegate {
 
 ## @main
 
-- App Protocol을 준수하는 구조체나 클래스에 부여하며, compiler가 main() 함수를 자동으로 합성한다.
+- App Protocol을 준수하는 구조체나 클래스에 부여하며, compiler가 `main()` 함수를 자동으로 합성한다.
 - 앱을 실행할 때 OS 가 가장 먼저 실행하며, 플랫폼에 적합한 방식으로 초기화 과정을 담당
 
 ## App Protocol
 
 - main 
-    - main()의 기본 구현을 제공
+    - `main()`의 기본 구현을 제공
 - body
     - 화면을 표시 담당
     - body에서 리턴하는 객체는 Scene Protocol을 구현해야 한다

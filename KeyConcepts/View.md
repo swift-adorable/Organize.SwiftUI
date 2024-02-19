@@ -59,7 +59,7 @@ View 는 UI를 구성하는 가장 기본적인 요소
     - `.onDisappear { //viewDidDisappear와 같은 개념 }`
 
 - 뷰의 모양, 크기, 색상 등을 변경하는 데 사용하며, 자주 사용되는 Modifier의 예시
-         1.  **크기와 위치**: `frame()`, `padding()`, `position()`
+        1.  **크기와 위치**: `frame()`, `padding()`, `position()`
         2.  **모양과 모양**: `cornerRadius()`, `border()`, `shadow()`
         3.  **색상**: `foregroundColor()`, `backgroundColor()`
         4.  **폰트와 텍스트 스타일**: `font()`, `fontWeight()`, `fontStyle()`

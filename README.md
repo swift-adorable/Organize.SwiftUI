@@ -7,8 +7,8 @@ SwiftUI를 공부 하고, 요약하기!
 ## 목차
 
 ### Key Concepts
- - [App](../KeyConcepts/App.md)
- - [Scene](../KeyConcepts/Scene.md)
+ - [App](./KeyConcepts/App.md)
+ - [Scene](./KeyConcepts/Scene.md)
 
 ## References
  - KXCoding - Mastering SwiftUI

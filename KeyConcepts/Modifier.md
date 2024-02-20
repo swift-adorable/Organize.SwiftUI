@@ -35,6 +35,12 @@ struct  ContentView: View {
             Slider(value: $value)
                 .padding(.horizontal)
         }
+        .onAppear {
+            //viewDidAppear와 같은 개념
+        }
+        .onDisappear {
+            //viewDidDisappear와 같은 개념
+        }
     }
 }
 ```

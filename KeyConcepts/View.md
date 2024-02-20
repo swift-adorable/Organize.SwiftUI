@@ -10,7 +10,7 @@ struct  ContentView: View {
     
     var body: some View {
         VStack {
-            Text(data)
+            Text("Hello, world")
                 .padding()
                 .font(.largeTitle)
             
@@ -19,12 +19,6 @@ struct  ContentView: View {
             } label: {
                 Text("Random Number")
             }
-        }
-        .onAppear {
-            //viewDidAppear와 같은 개념
-        }
-        .onDisappear {
-            //viewDidDisappear와 같은 개념
         }
     }
 }

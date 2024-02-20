@@ -11,6 +11,9 @@ SwiftUI를 공부 하고, 요약하기!
  - [Scene](./KeyConcepts/Scene.md)
  - [View](./KeyConcepts/View.md)
  - [Modifier](./KeyConcepts/Modifier.md)
+ 
+### Layouts & Presentations
+ - [StackView & LazyStacks](./LayoutsAndPresentations/Stack.md)
 
 ## References
  - KXCoding - Mastering SwiftUI

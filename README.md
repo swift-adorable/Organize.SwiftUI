@@ -14,6 +14,9 @@ SwiftUI를 공부 하고, 요약하기!
  
 ### Layouts & Presentations
  - [StackView & LazyStacks](./LayoutsAndPresentations/Stack.md)
+ - [Spacer](./LayoutsAndPresentations/Spacer.md)
+ - [ViewBuilder & Group](./LayoutsAndPresentations/ViewBuilderAndGroup.md)
+ - [ScrollView](./LayoutsAndPresentations/ScrollView.md)
 
 ## References
  - KXCoding - Mastering SwiftUI

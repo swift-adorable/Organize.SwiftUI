@@ -1,5 +1,5 @@
 
-# Spacer
+# Spacer
 
 Spacer를 사용해서 공백을 추가하는 방법에 대해 공부합니다.
 

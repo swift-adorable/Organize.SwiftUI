@@ -23,9 +23,9 @@ struct  BigPhotoView: View {
 ///  - **Parameters**:
 ///  - axes: The scroll view's scrollable axis. The default axis is the vertical axis.
 ///  - showsIndicators: A Boolean value that indicates 
-                    whether the scroll view displays the scrollable component of the content offset, 
-                    in a way suitable for the platform. 
-                    The default value for this parameter is `true`.
+///              whether the scroll view displays the scrollable component of the content offset, 
+///              in a way suitable for the platform. 
+///              The default value for this parameter is `true`.
 ///  - content: The view builder that creates the scrollable view.
 
 ///  - **ScrollView Initializer**

@@ -17,6 +17,10 @@ SwiftUI를 공부 하고, 요약하기!
  - [Spacer](./LayoutsAndPresentations/Spacer.md)
  - [ViewBuilder & Group](./LayoutsAndPresentations/ViewBuilderAndGroup.md)
  - [ScrollView](./LayoutsAndPresentations/ScrollView.md)
-
+ - [Form](./LayoutsAndPresentations/Form.md)
+ - [Overlay](./LayoutsAndPresentations/Overlay.md)
+ - [Alert](./LayoutsAndPresentations/Alert.md)
+ - [ConfirmationDialog](./LayoutsAndPresentations/ConfirmationDialog.md)
+ 
 ## References
  - KXCoding - Mastering SwiftUI

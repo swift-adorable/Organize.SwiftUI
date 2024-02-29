@@ -1,14 +1,18 @@
 
-# Alert
+# Alert
 
 경고창을 표시하는 방법을 공부합니다.
 
 ```swift
 struct  Alert_Tutorials: View {
+
     @State private var message = ""
+    
     @State private var showAlert = false
     @State private var showImageAlert = false
+    
     @State private var imageData: ImageData? = nil
+    
     var body: some View {
         VStack {
             Text(message)
@@ -71,4 +75,4 @@ struct  Alert_Tutorials: View {
 
 ## Alert
 
-`.alert` Modifier는 연달아 사용 가능하지만 **isPresented** 에 적용 되는 값은 동일 값으로 하면 안된다.
+`.alert` Modifier는 연달아 사용 가능하지만 **isPresented** 에 바인딩 되는 값은 동일 값으로 하면 안된다.

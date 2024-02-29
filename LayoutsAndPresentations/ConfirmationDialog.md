@@ -1,5 +1,5 @@
 
-# Confirmation Dialog
+# Confirmation Dialog
 
 Confirmation Dialog를 표시하는 방법에 대해 공부합니다.
 

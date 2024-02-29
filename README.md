@@ -21,6 +21,7 @@ SwiftUI를 공부 하고, 요약하기!
  - [Overlay](./LayoutsAndPresentations/Overlay.md)
  - [Alert](./LayoutsAndPresentations/Alert.md)
  - [ConfirmationDialog](./LayoutsAndPresentations/ConfirmationDialog.md)
+  - [Sheet](./LayoutsAndPresentations/Sheet.md)
  
 ## References
  - KXCoding - Mastering SwiftUI

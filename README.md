@@ -25,5 +25,9 @@ SwiftUI를 공부 하고, 요약하기!
  - [Popover](./LayoutsAndPresentations/Popover.md)
  - [Interactive Dismiss](./LayoutsAndPresentations/InteractiveDismiss.md)
  
+ ### Texts & Fonts
+ - [Text](./TextsAndFonts/Text.md)
+ - [Label](./TextsAndFonts/Label.md)
+ 
 ## References
  - KXCoding - Mastering SwiftUI

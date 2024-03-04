@@ -52,9 +52,10 @@ struct Sheet_Tutorials: View {
 ```swift
 //MARK: Image Scene
 struct ImageScene: View {
-
+    //#1
     //@Environment(\.presentationMode) var presentationMode
-    @Environment(\.dismiss) var dismiss
+    //#2
+    //@Environment(\.dismiss) var dismiss
     @Binding var presentModal: Bool
     
         var body: some View {
@@ -88,7 +89,7 @@ struct ImageScene: View {
 **SwiftUI**에서는 `.sheet()`로 Sheet 형태, `.fullScreenCover()` 로 Full Screen 형태를 구현한다.
 - Modal Presentation을 할 때, `Boolean` or `Identifier` 를 파라미터로 활용한다.
     - Boolean의 **true** or **false**
-    - Identifier 값의 존재 여부 **not nil ** or **nil**
+    - Identifier 값의 존재 여부 **not nil** or **nil**
 - 화면을 닫는 방법의 종류
     - @Environment `\.presentationMode` 변수
     - @Environment `\.dismiss` 변수

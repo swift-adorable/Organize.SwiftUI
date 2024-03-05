@@ -5,7 +5,7 @@ StackView는 기본적으로 스크롤을 지원하지 않는다.
 
 ## Stack의 종류
 
-<img  src = "../assets/stack.types.png"  width=40% height=40%>
+<img src = "../assets/stack.types.png"  width=40% height=40%>
 
 - **HStack**
     - Leading > Trailing 수평으로 배치 (단, 아랍권의 나라 같은 경우 Leading이 오른쪽)

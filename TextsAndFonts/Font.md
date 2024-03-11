@@ -7,7 +7,7 @@ Font를 다루는 다양한 방법에 대해 공부합니다.
 - Size and Weight
 - Font Styles
 
-### Standard Text Styles
+### Standard Text Styles
 
 ```swift
 struct StandardTextStyle: View {
@@ -32,7 +32,7 @@ struct StandardTextStyle: View {
 }
 ```
 
-### Font Designs
+### Font Designs
 
 ```swift
 struct FontDesign: View {
@@ -49,7 +49,7 @@ struct FontDesign: View {
 }
 ```
 
-### Font Size and Weight
+### Font Size and Weight
 
 ```swift
 struct FontSizeAndWeight: View {
@@ -78,7 +78,7 @@ struct FontSizeAndWeight: View {
 }
 ```
 
-### Font Styles
+### Font Styles
 
 ```swift
 struct FontStyle: View {

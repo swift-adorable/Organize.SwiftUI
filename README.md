@@ -28,6 +28,19 @@ SwiftUI를 공부 하고, 요약하기!
  ### Texts & Fonts
  - [Text](./TextsAndFonts/Text.md)
  - [Label](./TextsAndFonts/Label.md)
+ - [Font](./TextsAndFonts/Font.md)
+ - [TextField](./TextsAndFonts/TextField.md)
+ 
+ ### Controls
+ - [Button](./Controls/Button.md)
+ - [Link](./Controls/Link.md)
+ - [Menu](./Controls/Menu.md)
+ - [Toggle](./Controls/Toggle.md)
+ - [Slider](./Controls/Slider.md)
+ - [Progress View](./Controls/ProgressView.md)
+ - [Stepper](./Controls/Stepper.md)
+ - [Picker](./Controls/Picker.md)
+ 
  
 ## References
  - KXCoding - Mastering SwiftUI
